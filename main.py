@@ -15,6 +15,11 @@ with col2:
     """
     st.info(content)
 
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
+
 # import streamlit as st
 #
 # st.set_page_config(layout="wide")
@@ -35,3 +40,4 @@ with col2:
 #     web framework.
 #     """
 #     st.info(content)
+# st.write('Below you can find some of the apps I have built in Python. Feel free to contact me!')
