@@ -11,6 +11,8 @@ def send_email(message, user_email):
     host = os.getenv('HOST')
     port = os.getenv('PORT')
     username = os.getenv('USERNAME_GMAIL')
+
+    # Ta zmienna jest zapisana za pomocą "Edytu zmienne środowiskowe" a nie w pliku .env
     password = os.getenv('PASSWORD_GMAIL')
 
     reciever = 'marcin.karbowniczyn@gmail.com'

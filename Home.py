@@ -2,7 +2,8 @@
 import streamlit as st
 import pandas  # Third party library to read CSV data. It's already installed with streamlit.
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide",
+                   page_title="Portfolio")
 project_image_width = 500
 
 empty_col_intro_left, col1, col2, empty_col_intro_right = st.columns([1, 1, 1, 1])
