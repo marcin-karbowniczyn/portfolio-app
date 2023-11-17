@@ -2,4 +2,5 @@ venv
 .idea
 notatki.txt
 test.py
-/my-project
+/my_project
+.env

@@ -8,5 +8,9 @@ with st.form(key='contact_me_form', clear_on_submit=True):
     user_message = st.text_area('Your message:', key='messageInput')
     submitted = st.form_submit_button('Submit')
     if submitted:
-        send_email(user_message, user_email)
-        st.info('Email has been sent.')
+        try:
+            send_email(user_message, user_email)
+            st.info('Email has been sent.')
+        except Exception as e:
+            print(e)
+            st.error(f"Something gone wrong. Email hasn't been sent. Try again later.")
