@@ -5,4 +5,6 @@ test.py
 /my_project
 .env
 thread_test.py
-SQL.txt
+SQL_TUTORIAL
+OOP_tutorial.py
+test_sorted.py
