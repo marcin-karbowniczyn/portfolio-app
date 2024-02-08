@@ -18,9 +18,11 @@ with col1:
 with col2:
     st.title('Marcin Karbowniczyn')
     content = """
-    Hi, my name is Marcin. I try to become a full time programmer. I mainly focus on backend/software development using Python and Node.js. 
-    This website was built in Python with an usage of Streamlit web framework.
-    Below you can find some of the apps I have built in Python. Feel free to contact me!
+    Hi, my name is Marcin and I live in the city of Szczecin. I am trying to become a full time programmer. I mainly focus on backend/software development using Python, Node.js and Javascript.
+    I have some experience in working with such frameworks and libraries like Django, Django Web Framework, Flask, Pandas, Jupyter, ExpressJS, Sqlite3, MySQL and Mongoose.
+    This website was built in Python using Streamlit web framework.
+    Below you can find some of the apps I have built with Python and Javascript/NodeJS. Below every image there is a link connected to my GitHub account.
+    Feel free to contact me!
     """
     st.info(content)
 
