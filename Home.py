@@ -18,9 +18,9 @@ with col1:
 with col2:
     st.title('Marcin Karbowniczyn')
     content = """
-    Hi, my name is Marcin and I live in the city of Szczecin. I am trying to become a full time programmer. I mainly focus on backend/software development using Python, Node.js and Javascript.
-    I have some experience in working with such frameworks and libraries like Django, Django Web Framework, Flask, Pandas, Jupyter, ExpressJS, Sqlite3, MySQL, Mongoose.
-    This website was built in Python using Streamlit web framework.
+    Hi, my name is Marcin and I live in the city of Szczecin. My goal is to become a full time programmer. I mainly focus on backend/software development using Python, Node.js and Javascript.
+    I have some experience in working with such frameworks and libraries like Django, Django Web Framework, Flask, Pandas, Jupyter, ExpressJS, Sqlite3, MySQL and Mongoose.
+    This website was built in Python with Streamlit web framework.
     Below you can find some of the apps I have built with Python and Javascript/NodeJS. Below every image there is a link connected to my GitHub account.
     Feel free to contact me!
     """
