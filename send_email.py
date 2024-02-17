@@ -11,8 +11,6 @@ def send_email(message, user_email):
     host = os.getenv('HOST')
     port = os.getenv('PORT')
     username = os.getenv('USERNAME_GMAIL')
-
-    # Ta zmienna jest zapisana za pomocą "Edytu zmienne środowiskowe" a nie w pliku .env
     password = os.getenv('PASSWORD_GMAIL')
 
     reciever = 'marcin.karbowniczyn@gmail.com'
@@ -23,7 +21,7 @@ From: {user_email}
 {message}
 """
 
-    context = ssl.create_default_context()  # Nie wiem co to, mogę później poszukać
-    with smtplib.SMTP_SSL(host, port, context=context) as server:  # Musimy dać "as" bo otwieramy funkcję która zwraca zmienną na której są metody
+    context = ssl.create_default_context()
+    with smtplib.SMTP_SSL(host, port, context=context) as server:
         server.login(username, password)
         server.sendmail(username, reciever, message)
