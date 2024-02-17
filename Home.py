@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas  # Third party library to read CSV data. It's already installed with streamlit.
+import pandas
 from utils.hide_fulscreen_button import hide_img_fs
 
 st.set_page_config(layout="wide",

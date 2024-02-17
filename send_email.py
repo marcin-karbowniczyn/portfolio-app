@@ -1,4 +1,4 @@
-import smtplib  # Standard lib to send emails. Lecture 218
+import smtplib
 import ssl
 import os
 
