@@ -1,4 +1,3 @@
-# Z tego co rozumiem, pandas bierze dane CSV, tworzy z tego Data Frame, czyli dict type object który zawiera x rowów i y kolumn.
 import streamlit as st
 import pandas  # Third party library to read CSV data. It's already installed with streamlit.
 from utils.hide_fulscreen_button import hide_img_fs
