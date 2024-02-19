@@ -4,7 +4,7 @@ Profiles REST API;A Django REST Framework API for creating and managing user pro
 Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/marcin-karbowniczyn/email-webcam-detection;11.png
 Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://github.com/marcin-karbowniczyn/restaurant-menu-app;19.png
 Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/marcin-karbowniczyn/student-managment-system;17.png
-Todo App;CLI Todo App and its GUI version.;https://github.com/marcin-karbowniczyn/py-todo-app;1.png
+Todo App;CLI Todo App and its GUI version in which the user can create and manage todos.;https://github.com/marcin-karbowniczyn/py-todo-app;1.png
 Visualizing Weather Forecast;A data web app that visualizes the weather forecast up to the next five days of any city.;https://github.com/marcin-karbowniczyn/weather-forecast-app;16.png
 Weather API;An API built with Python and Flask to serve historical weather data for various cities.;https://github.com/marcin-karbowniczyn/historical-weather-api;6.png
 Email News Site;This is a simple app that accesses news about a particular topic and sends them by email.;https://github.com/marcin-karbowniczyn/email-news-sender;5.png
