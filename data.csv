@@ -1,4 +1,5 @@
 title;description;url;image
+Recipe REST API;An API built with Django REST Framework for creating and managing recipes (work in progress).;https://github.com/marcin-karbowniczyn/recipe-app-api;21.png
 Profiles REST API;A Django REST Framework API for creating and managing user profiles and their feed.;https://github.com/marcin-karbowniczyn/profiles-rest-api;18.png
 Email Remainder;An API built in Node.js in which a user can create and manage remainders that will be send via email.;https://github.com/marcin-karbowniczyn/email-reminder;emailnder.png
 Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/marcin-karbowniczyn/email-webcam-detection;11.png
