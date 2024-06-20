@@ -20,10 +20,11 @@ with col2:
     Hi, my name is Marcin and I live in the city of Szczecin, Poland. My goal is to become a full time programmer. I mainly focus on backend/software development using Python and Node.js,
     but I also use Javascript for frontend tasks.
     I have some experience in working with such frameworks, libraries and tools like Django, Django Web Framework, Flask, Docker, Docker Compose, Pandas, Jupyter, PyQt6, ExpressJS, Sqlite3, MySQL, 
-    PostreSQL and Mongoose. I am also familiar with creating REST APIs, test-driven development (TDD) and MVC design pattern.
+    PostreSQL and Mongoose. I am familiar with test-driven development (TDD), the approach I often use when I create REST APIs. Although I mainly focus on web development, I have also created a
+    desktop app using PyQt6.
     
     This website was built in Python with Streamlit web framework.
-    Below you can find some of the apps I have built with Python and Javascript/NodeJS. Below every image there is a link connected to my GitHub account.
+    Below you can find some of the apps I have built with Python and Javascript/NodeJS. Below every image there is a link leading to my GitHub account.
     Feel free to contact me!
     """
     st.info(content)
