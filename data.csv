@@ -1,5 +1,5 @@
 title;description;url;image
-Django Email Reminder;An API built in Python and Django REST Framework in which users can create and manage reminders that are being sent to them via email.;https://github.com/marcin-karbowniczyn/recipe-app-api;emailnder-py.png
+Django Email Reminder;An API built in Python and Django REST Framework in which users can create and manage reminders that are being sent to them via email.;https://github.com/marcin-karbowniczyn/py-email-reminder;emailnder-py.png
 Recipe REST API;A simple API built with Django REST Framework for creating and managing recipes.;https://github.com/marcin-karbowniczyn/recipe-app-api;21.png
 Profiles REST API;A Django REST Framework API for creating and managing user profiles and their feed.;https://github.com/marcin-karbowniczyn/profiles-rest-api;18.png
 Email Reminder;An API built in Node.js in which users can create and manage reminders that are later being sent via email.;https://github.com/marcin-karbowniczyn/email-reminder;emailnder.png
